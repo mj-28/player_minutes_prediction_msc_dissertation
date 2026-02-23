@@ -2,7 +2,9 @@
 ## Predicting Player Minutes in Professional Football Using Machine Learning
 
 This repository contains the full codebase for my MSc Artificial Intelligence dissertation, conducted in collaboration with Lincoln City FC.
+
 The objective of the project was to develop and explore machine learning models capable of predicting player minutes played, using engineered representations of playing style and contextual performance data.
+
 !! Due to confidentiality agreements, the dataset, its contents, feature names, results, performance metrics, tables, and figures are not included in this repository.
 
 ## Project Overview
